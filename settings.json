@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GTKGOD.aternos.me:18150",
+    "ip": "GTKGOD.aternos.me",
     "port": 18150,
     "version": "1.21.1"
   },
